@@ -11,7 +11,7 @@
  
 ## Skills and Interests
 
-- **Programming Languages:** C, C++, JavaScript, C#, SQL 
+- **Programming Languages:** C, C++, C#, JavaScript, SQL 
 - **Software Development:** Object-oriented programming, data structures, algorithms
 - **Version Control:** Git, GitHub
 - **Technologies & Frameworks:** HTML5, CSS3, Node.js, Express.js
