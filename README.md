@@ -9,8 +9,8 @@
 ## Skills and Interests
 
 - 💻 **Programming Languages**: C, C#, JavaScript, SQL
-- 🌐 **Technologies**: Node.js, Express.js
+- 💻 **Technologies**: Node.js, Express.js
 - ⚙️ Embedded Systems and Arduino Enthusiast: I have a keen interest in embedded systems, with a particular focus on Arduino development, where I explore various aspects of microcontroller programming and application development.
-- 🐧 **Linux Enthusiast**: I'm also a Linux enthusiast, exploring the world of open-source software and system administration.
+- ⚙️ **Linux Enthusiast**: I'm also a Linux enthusiast, exploring the world of open-source software and system administration.
 
 Feel free to explore my repositories and projects. I'm always open to collaboration and learning from the GitHub community. If you have any questions or just want to connect, don't hesitate to reach out!
